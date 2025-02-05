@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srshakil2&label=Profile%20views&color=0e75b6&style=flat" alt="srshakil2" /> </p>
 
-- 🌱 I’m currently learning **react.js,Next.js,node.js,express.js,mongodb**
+- 🌱 I’m currently learning **Mongoose,Python,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/srshakil2](https://github.com/srshakil2)
 
