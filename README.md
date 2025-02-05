@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rh3642921@gmail.com**
 
-- 📄 Know about my experiences [1 year](1 year)
+- 📄 Know about my experiences [1 year]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
