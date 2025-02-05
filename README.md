@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robiul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/99622c28-fd64-4532-bd60-808c2905b44e)
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/99622c28-fd64-4532-bd60-808c2905b44e
 "/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srshakil2&label=Profile%20views&color=0e75b6&style=flat" alt="srshakil2" /> </p>
