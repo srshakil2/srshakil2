@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I am Rabiul Hasan. I am a web frontend developer. I am proficient in HTML, CSS, JavaScript, React.js, Next.js, Express.js, Node.js and MongoDB. I also have a very good understanding of various CSS packages, React.js packages, Node.js packages and Firebase and I am constantly developing my learning skills.</p>
 
 ###
 
